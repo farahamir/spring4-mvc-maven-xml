@@ -21,6 +21,7 @@ It will start the embedded jetty server on default port 8080
 - Spring Core
 - Spring MVC
 - Spring Schedule
+- MYSQL
 - Maven
 - Html/JSP
 - Mockito
